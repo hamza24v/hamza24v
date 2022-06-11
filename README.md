@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamza24v
 - 👀 I’m interested in
 -     - Basketball
--     - Comptetive programming
+-     - Competitive programming
 -     - Learning new technologies
 -     - Personal projects
 - 🌱 I’m currently learning React and Flutter
