@@ -13,12 +13,14 @@
 
   Languages/frameworks proficient in:
 -      python
--      java
+-      C/C++
+-      Java
 -      React
   Languages/frameworks familiar with:
- -      C/C++
+ -      Flutter
  -      Spark
  -      Verilog
+ -      Rust
   Langauges/frameworks currently learning:
 -      Tailwind CSS
 
