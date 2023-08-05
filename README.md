@@ -8,6 +8,7 @@
 - 🌱 What i'm currently up to:
 -     working on full stack projects 
 -     refining my technical skills (leetcode)
+-     Taking an AWS Cloud Practitioner course 
 - 📫 How to reach me:
 -     email: hamzashueib23@gmail.com
 
