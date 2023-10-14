@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamza24v
+- 👋 Hi, I’m Hamza
 - 
 - 👀 I’m interested in
 -     Learning new technologies
@@ -6,22 +6,26 @@
 -     Full stack mobile/website
 -     Fitness 
 - 🌱 What i'm currently up to:
--     working on full stack projects 
--     refining my technical skills (leetcode)
--     Taking an AWS Cloud Practitioner course 
+-     Building EcoQuest project
+-     Working in web dev & AWS 
 - 📫 How to reach me:
 -     email: hamzashueib23@gmail.com
 
   Languages/frameworks proficient in:
--      python
+-      Python
 -      C/C++
 -      Java
 -      React
   Languages/frameworks familiar with:
  -      Flutter
+ -      Swift
  -      Spark
  -      Verilog
  -      Rust
-  Langauges/frameworks currently learning:
--      Tailwind CSS
+  Languages/frameworks currently working in:
+-      React
+-      Python
+-      AWS Lambda
+-      SQLAlchemy
+-    
 
