@@ -6,8 +6,7 @@
 -     Full stack mobile/website
 -     Fitness 
 - 🌱 What i'm currently up to:
--     Building EcoQuest project
--     Working in web dev & AWS 
+-     Freelancing work
 - 📫 How to reach me:
 -     email: hamzashueib23@gmail.com
 
