@@ -12,19 +12,12 @@
 
   Languages/frameworks proficient in:
 -      Python
--      C/C++
+-      Javascript
 -      Java
 -      React
+-      Node
   Languages/frameworks familiar with:
  -      Flutter
  -      Swift
- -      Spark
- -      Verilog
- -      Rust
-  Languages/frameworks currently working in:
--      React
--      Python
--      AWS Lambda
--      SQLAlchemy
--    
+ -      Rust    
 
